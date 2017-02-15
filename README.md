@@ -42,7 +42,7 @@ if(m.success) {
         + "groups(4) = " + m.groups(4) + "      无后缀文件名\r\n"
         + "groups(5) = " + m.groups(5) + "      后缀名\r\n"
         + "groups.count = " + m.groups.count 
-        )
+        );
 }
 ```
 
